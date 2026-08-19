@@ -1,4 +1,6 @@
 # aurelia-navigation-menu plugin
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjagonalez%2Faurelia-navigation-menu.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjagonalez%2Faurelia-navigation-menu?ref=badge_shield)
+
 
 Enables eager loading of child routes and creates a navigation menu based on routes and child routes.
 ## Installing
@@ -143,3 +145,7 @@ To run the unit tests, first ensure that you have followed the steps above in or
   ```shell
   karma start
   ```
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjagonalez%2Faurelia-navigation-menu.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjagonalez%2Faurelia-navigation-menu?ref=badge_large)
